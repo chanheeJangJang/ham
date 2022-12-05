@@ -18,7 +18,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
-
+ ////수정됐나?
     ImageButton bread_top_btn,bread_bottom_btn,cheese_btn,meat_btn,onion_btn,tomato_btn,egg_btn,lettuce_btn;
     ImageView[] recipe=new ImageView[11];
     ImageView[] my_recipe=new ImageView[11];
